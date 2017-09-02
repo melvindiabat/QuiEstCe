@@ -1,0 +1,9 @@
+Questions/Reponses;Carré;Rectangle;Triangle isocèle;Losange;Triangle rectangle;Triangle Equilatéral;Quadrilatère;Trapèze;Parallèlogramme
+La figure a-t-elle au moins une paire de côtés égaux ?;oui;oui;oui;oui;non;oui;non;non;oui
+La figure a-t-elle plus d'une paire de côtés égaux ?;oui;oui;non;oui;non;oui;non;non;oui
+La figure a-t-elle au moins une paire de côtés parallèles ?;oui;oui;non;oui;non;non;non;oui;oui
+La figure a-t-elle plus d'une paire de côtés parallèles ?;oui;oui;non;oui;non;non;non;non;oui
+La somme des angles de la figure est-elle égale à 180 degrés ?;non;non;oui;non;oui;oui;non;non;non
+La figure possède-t-elle des diagonales qui se coupent en leur milieu ?;oui;oui;non;oui;non;non;non;non;oui
+La figure possède-t-elle des diagonales qui se coupent perpendiculairement ?;oui;non;non;oui;non;non;non;non;non
+La figure possède-t-elle au moins un angle droit ?;oui;oui;non;non;oui;non;non;non;non
